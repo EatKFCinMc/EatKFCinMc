@@ -1,7 +1,5 @@
-## Good Morning, Noon, Afternoon, Evening and Night
+## Good Night
 
-- 🌱 I’m currently learning Computer Science as a freshman in UCI
-- 😄 Pronouns: Helicopter (Actually no preference)
 
 <!--
 **EatKFCinMc/EatKFCinMc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
