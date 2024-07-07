@@ -1,5 +1,6 @@
 ## Good Night
 
+<img src="https://osu-sig.vercel.app/card?user=EatKFCinMc&mode=mania&lang=en&animation=true" alt="SVG Image" />
 
 <!--
 **EatKFCinMc/EatKFCinMc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
