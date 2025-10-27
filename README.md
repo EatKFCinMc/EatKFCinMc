@@ -1,4 +1,8 @@
-## Good Night
+## Good Morning Noon Afternoon Night
+
+Hi I'm EatKFCinMc
+
+That's it.
 
 <img src="https://osu-sig.vercel.app/card?user=EatKFCinMc&mode=mania&lang=en&animation=true" alt="SVG Image" />
 
